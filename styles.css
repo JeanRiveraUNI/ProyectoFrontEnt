@@ -342,3 +342,13 @@
     margin-right: 20px;
     width: 100%;
   }
+
+  .boton {
+    background: linear-gradient(90deg, #f75fea, #cc1dcf);
+    border-radius: 21px 25px 25px 21px;
+    border: 1px solid;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 30px;
+    text-decoration: none;
+  }
